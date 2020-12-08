@@ -230,7 +230,7 @@
 }
 .kaufman__triangle {
   position: absolute;
-  z-index: 1;
+  z-index: 5;
   background-image: url(../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -238,20 +238,22 @@
   width: 877px;
   top: 0;
   right: -210px;
+
 }
 .section-title_theme_dark {
   top: 0;
   margin-bottom: 0;
   position: relative;
-  z-index: 2;
+  z-index: 6;
 }
 .section-subtitle_theme_dark {
-  z-index: 2;
+  position: relative;
+  z-index: 7;
 }
 .table_theme_dark {
   margin: auto auto 90px;
   position: relative;
-  z-index: 2;
+  z-index: 8;
 }
 
 .table__cell_theme_dark {
