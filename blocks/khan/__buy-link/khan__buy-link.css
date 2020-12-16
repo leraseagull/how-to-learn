@@ -5,6 +5,8 @@
   font-weight: normal;
   transition: 1s ease-out;
   text-decoration: none;
+  color: #2f80ed;
+  align-self: self-start;
 }
 .khan__buy-link:hover {
   opacity: .5;
