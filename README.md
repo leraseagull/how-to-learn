@@ -1,5 +1,4 @@
 # how-to-learn 
-https://leraseagull.github.io/how-to-learn/
 
 1. *О чем этот проект?* 
 Этот сайт создан, чтобы **мотивировать** людей учиться. 
